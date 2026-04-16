@@ -3,7 +3,7 @@
 A pixel-perfect React JS implementation of the PopX mobile app design from Adobe XD.
 
 ## 🖥️ Live Demo
-> _(Add your Vercel link here after deployment)_
+https://popx-app-lilac-five.vercel.app/
 
 ## 📁 Project Structure
 
@@ -13,19 +13,19 @@ popx-app/
 ├── package.json
 ├── vite.config.js
 ├── .gitignore
-└── src/
-    ├── main.jsx
-    ├── App.jsx
-    ├── App.css
-    └── screens/
-        ├── LandingScreen.jsx
-        ├── LandingScreen.css
-        ├── LoginScreen.jsx
-        ├── LoginScreen.css
-        ├── SignupScreen.jsx
-        ├── SignupScreen.css
-        ├── ProfileScreen.jsx
-        └── ProfileScreen.css
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── LandingScreen.css  
+│   ├── LoginScreen.css    
+│   ├── SignupScreen.css   
+│   ├── ProfileScreen.css  
+│   └── screens/
+│       ├── LandingScreen.jsx
+│       ├── LoginScreen.jsx
+│       ├── SignupScreen.jsx
+│       └── ProfileScreen.jsx
 ```
 
 ## 🚀 Step-by-Step Setup From Scratch
